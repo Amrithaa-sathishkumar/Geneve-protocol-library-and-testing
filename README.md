@@ -35,3 +35,19 @@ file_path = Path("/mnt/data/geneve_structure.txt")
 file_path.write_text(directory_structure)
 
 file_path.name
+
+
+## ⚙️ Requirements
+
+- Linux OS (tested on Ubuntu)
+- GCC or Clang
+- Root privileges (for raw socket access)
+- Network interface (e.g., `enp3s0` or `eth0`)
+- Proper IPv6 setup between two systems
+
+## 🛠️ Build Instructions
+
+To compile the project:
+
+```bash
+make
