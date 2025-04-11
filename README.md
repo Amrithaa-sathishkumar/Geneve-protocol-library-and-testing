@@ -50,10 +50,11 @@ file_path.name
 To compile the project:
 
 ```bash
-make
+make```
 
 
-## __How to run__
+## 🚀 How to Run
+
 
 To run the project:
 
