@@ -53,7 +53,7 @@ To compile the project:
 make
 
 
-## **How to run**
+## __How to run__
 
 To run the project:
 
