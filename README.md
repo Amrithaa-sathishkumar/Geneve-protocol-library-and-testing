@@ -52,7 +52,8 @@ To compile the project:
 ```bash
 make
 
-## How to run
+
+## **How to run**
 
 To run the project:
 
