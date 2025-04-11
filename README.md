@@ -50,7 +50,7 @@ file_path.name
 To compile the project:
 
 ```bash
-make```
+make
 
 
 ## 🚀 How to Run
