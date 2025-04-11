@@ -4,14 +4,14 @@ This project provides a multithreaded implementation of the **GENEVE (Generic Ne
 
 ## ✨ Features
 
-- ✅ Create and parse GENEVE headers
-- ✅ Encapsulate and decapsulate:
-  - Outer Ethernet + IPv6 + UDP headers
-  - GENEVE header
-  - Inner Ethernet + IPv4 + UDP + Payload
-- ✅ Compute correct UDP checksums
-- ✅ Use port `6081` (standard GENEVE UDP port)
-- ✅ Multithreaded simulation of sending and receiving GENEVE packets
+-  Create and parse GENEVE headers
+-  Encapsulate and decapsulate:
+-  Outer Ethernet + IPv6 + UDP headers
+-  GENEVE header
+-  Inner Ethernet + IPv4 + UDP + Payload
+-  Compute correct UDP checksums
+-  Use port `6081` (standard GENEVE UDP port)
+-  Multithreaded simulation of sending and receiving GENEVE packets
 
 ## 📁 Project Structure
 
