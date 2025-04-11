@@ -51,3 +51,10 @@ To compile the project:
 
 ```bash
 make
+
+## How to run
+
+To run the project:
+
+```bash
+sudo ./geneve_test send <destination_ipv6> <interface_name>
