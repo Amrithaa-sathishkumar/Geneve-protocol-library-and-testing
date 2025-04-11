@@ -58,5 +58,5 @@ make
 To run the project:
 
 ```bash
-sudo ./geneve_test send <destination_ipv6> <interface_name>
+./geneve_test4 <source_ipv4> <destination_ipv4>
 ```
